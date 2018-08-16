@@ -3,8 +3,8 @@
     "short_name": "Minimal PWA",
     "display": "standalone",
     "start_url": "/pwa/index.html",
-    "theme_color": "#8888ff",
-    "background_color": "#aaaaff",
+    "theme_color": "red",
+    "background_color": "blue",
     "icons": [
       {
         "src": "/pwa/e.png",
